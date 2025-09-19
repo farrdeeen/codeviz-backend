@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.env
+.env.*
+.venv/
+venv/
+env/
+*.log
+
+# Build & tooling
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Project-specific
+codeviz_*/        # temp clone dirs
